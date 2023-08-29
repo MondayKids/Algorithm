@@ -47,7 +47,7 @@ Repository
 | 날짜 | 23-08-28                                              | 23-08-29 | 23-08-30 | 23-08-31 | 23-09-01 | 23-09-02 | 23-09-03 |
 | 동언 | [색종이 만들기](https://www.acmicpc.net/problem/2630) |          |          |          |          |          |          |
 | 재희 | [연구소](https://www.acmicpc.net/problem/14502)       |          |          |          |          |          |          |
-| 찬희 | [N과M1](https://www.acmicpc.net/problem/15649)                                                      |          |          |          |          |          |          |
+| 찬희 | [N과M1](https://www.acmicpc.net/problem/15649) | [N과M2](https://www.acmicpc.net/problem/15650) |          |          |          |          |          |
 | 날짜 | 23-09-04                                              | 23-09-05 | 23-09-06 | 23-09-07 | 23-09-08 | 23-09-09 | 23-09-10 |
 | 동언 |                                                       |          |          |          |          |          |          |
 | 재희 |                                                       |          |          |          |          |          |          |
